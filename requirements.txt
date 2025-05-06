@@ -1,0 +1,9 @@
+click
+validators
+bs4
+attrs
+yarl
+multidict
+aiohttp
+aiofiles
+aiolimiter
